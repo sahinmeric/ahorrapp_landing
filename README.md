@@ -1,10 +1,5 @@
 # Ahorrapp-landing-page
-
-HOST: https://matilop15.github.io/Ahorrapp-landing-page/
-
-Ahorrapp langind page 
-
-
+https://sahinmeric.github.io/ahorrapp_landing/
 # AUTHORS
 - Bruno	Rodriguez <bruno.rodriguez@holbertonschool.com>
 - Matias López <matias.lopez@holbertonschool.com>
